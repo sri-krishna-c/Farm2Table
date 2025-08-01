@@ -32,6 +32,8 @@ JWT_SECRET=<your_jwt_secret_key>
 
 **Start the development server:**
 npm start
+
+
 📂 Folder Structure
 FARM-2-TABLE
 /
