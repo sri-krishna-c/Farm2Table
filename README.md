@@ -22,8 +22,6 @@ APIs: RESTful API integration
 **Installation**
 
 **Clone the repository:**
-git clone https://github.com/prejan/FARM-2-TABLE.git
-cd FARM-2-TABLE
 
 **Install dependencies:**
 npm install
@@ -35,10 +33,6 @@ JWT_SECRET=<your_jwt_secret_key>
 **Start the development server:**
 npm start
 📂 Folder Structure
-bash
-Copy
-Edit
-
 FARM-2-TABLE
 /
 
@@ -56,13 +50,9 @@ FARM-2-TABLE
 👥 Team
 Prejan S – Project Lead
 
-📃 License
-This project is licensed under the MIT License. See LICENSE file for more info.
-
 🤝 Contributions
 Feel free to fork and raise a pull request! Contributions are welcome.
 For major changes, please open an issue first to discuss what you would like to change.
 
-📞 Contact
-For queries, email:srikrishna30233@gmail.com
+
 
