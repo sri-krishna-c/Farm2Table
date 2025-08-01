@@ -39,7 +39,8 @@ bash
 Copy
 Edit
 
-FARM-2-TABLE/
+FARM-2-TABLE
+/
 │
 
 
